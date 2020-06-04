@@ -40,4 +40,7 @@ layout: base
 
 <div style="clear: center"></div>
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=0LVsOvzhHrdJQk164GGqmx0VfULygDI70h50zDsHMG0"></script>
+
+<a href="http://www.clustrmaps.com/map/Auditory-attention-eeg.github.io" title="Visit tracker for Auditory-attention-eeg.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=0LVsOvzhHrdJQk164GGqmx0VfULygDI70h50zDsHMG0" /></a>
+
 <div class="toctree-wrapper compound"></div>
