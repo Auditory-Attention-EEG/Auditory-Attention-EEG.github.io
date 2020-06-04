@@ -39,4 +39,5 @@ layout: base
 </div>
 
 <div style="clear: center"></div>
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=hqqXImkYTBkh1YxzKRImKk3izICc_synLL1s0846FTA"></script>
 <div class="toctree-wrapper compound"></div>
