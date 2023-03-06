@@ -3,7 +3,24 @@ title: Index
 layout: base
 ---
 
+<!DOCTYPE html>
+<html>
+    <head>
+<!--      <title>Teaching</title> -->
+<!--      <meta charset="UTF-8" /> -->
+     <meta http-equiv="refresh" content="0; URL=https://phyaat.github.io" />
+   </head>
+   <body>
+     <p>This page has been moved. If you are not redirected within 3 seconds, click <a href="https://phyaat.github.io">here</a> to go to the new page vanue.</p>
+   </body>
+</html>
+
 <div class="index-paragraph docutils container">
+
+<p>This page has been moved to new location: [https://phyaat.github.io](https://phyaat.github.io).
+</p></div>
+   
+   
 <p>The dataset contains a collection of physiological signals (<strong>EEG, GSR, PPG</strong>) obtained from an experiment of <strong>the auditory attention on natural speech</strong>. From dataset, four predictive problems have been formulated. Python scripts are provided for preprocessing, visualizing, removing artifacts, predictive modelling and feature engineering.
 </p></div>
 
@@ -37,6 +54,9 @@ layout: base
 </div>
 </div>
 </div>
+
+
+
 
 <div style="clear: center"></div>
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=0LVsOvzhHrdJQk164GGqmx0VfULygDI70h50zDsHMG0"></script>
